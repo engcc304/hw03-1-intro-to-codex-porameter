@@ -16,7 +16,7 @@ int main() {
         } else {
             printf( "ok") ;
         }
-    }
+    }//end for
 
     return 0;
-}
+}//end main fuction
